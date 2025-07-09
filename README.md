@@ -21,4 +21,11 @@ This project involves analyzing historical weather data using Power BI to uncove
 
 ## 📸 Sample Dashboard
 ![Dashboard Screenshort](https://github.com/user-attachments/assets/81977296-c333-4b6b-8add-6eba07f537d6)
+![Dashboard Screenshort](https://github.com/user-attachments/assets/f9fe3739-3c3b-4a72-9a2a-1ec9b9eaef06)
+![Dashboard Screenshort](https://github.com/user-attachments/assets/05fcb8c7-9dac-44cc-9627-dc579d2ede09)
+![Dashboard Screenshort](https://github.com/user-attachments/assets/9d48bef4-fc5f-4aad-b187-8e4510d6db7d)
+![Dashboard Screenshort](https://github.com/user-attachments/assets/d6591fea-c2c4-40fe-b0cf-e1817e4ad161)
+
+
+
 
